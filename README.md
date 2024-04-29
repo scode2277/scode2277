@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A jr developer from Italy with big dreams</h3>
+<h3 align="center">A jr full-stack developer with🎆big dreams🎆</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scode2277&label=Profile%20views&color=0e75b6&style=flat" alt="scode2277" /> </p>
 
