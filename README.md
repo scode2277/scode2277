@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scode2277&label=Profile%20views&color=0e75b6&style=flat" alt="scode2277" /> </p>
 
-- 🌱 Right now I'm focusing on: **React.js, Javascript and Redux**
+- 🌱 Right now I'm focusing on: **React.js, Solidity and Javascript**
 
 - ⚡ Fun fact about me: **I still have to figure out a lot of things in my life, but you'll never see me stop**😉
 
